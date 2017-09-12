@@ -1,0 +1,22 @@
+body {
+  background: white !important;
+
+}
+
+h1 {
+  color: crimson !important
+}
+
+.glyphicon-music {
+  color: crimson !important;
+}
+
+.glyphicon-music:hover {
+  text-decoration: none;
+
+}
+
+#add-desc {
+  font-weight: bold !important;
+  color: crimson !important;
+}
