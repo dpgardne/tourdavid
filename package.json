@@ -14,5 +14,13 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "express-session": "^1.15.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpgardne/tourdavid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dpgardne/tourdavid/issues"
+  },
+  "homepage": "https://github.com/dpgardne/tourdavid#readme"
 }
