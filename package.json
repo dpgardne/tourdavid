@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/dpgardne/tourdavid/issues"
   },
-  "homepage": "https://github.com/dpgardne/tourdavid#readme"
+  "homepage": "https://github.com/dpgardne/tourdavid#readme",
+  "devDependencies": {}
 }
