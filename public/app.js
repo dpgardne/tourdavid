@@ -28,7 +28,7 @@ app.controller('mainController', ['$http', '$scope', '$filter', function($http, 
   $scope.updatingShow   = {};
 
   // declare variables
-  this.url         = 'https://davidtour206.herokuapp.com';
+  this.url         = 'http://davidtour206.herokuapp.com';
   const self       = this;
   this.loggedIn    = false;
   this.formdata    = '';
