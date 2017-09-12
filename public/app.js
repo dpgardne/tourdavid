@@ -74,7 +74,7 @@ app.controller('mainController', ['$http', '$scope', '$filter', function($http, 
     console.log( $scope.currentEvent.start.local);
     // show.description
     console.log( $scope.currentEvent.description.text);
-    
+    console.log(typeof self.user.id);
     // POST REQUEST
     $http({
       method: 'POST',
